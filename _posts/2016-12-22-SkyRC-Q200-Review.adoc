@@ -51,7 +51,9 @@ It also allows for customizable power outputs between channels A/C and B/D when 
 By default each channel is set at 50W, but can easily be changed. This can be useful if you’re charging a big mAh LiPo battery, like a 5000mAh unit since you can set appropriate wattage values for charging.  +
 Once you setup the desired wattage on channel A, for example 70W, then channel C will automatically be set to 30W due to the 100W restriction. +
 
-*[CHANNEL WATTAGE PICTURE]* +
+
+image::http://github.com/OctavioMaia/octaviomaia.github.io/images/watts.PNG[]
+
 Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A. +
 Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel. +
 
