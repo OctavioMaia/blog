@@ -5,7 +5,6 @@ Octávio Maia <octaviojmaia@gmail.com>
 
 image::http://www.skyrc.com/image/data/980px_en/Q200/01.jpg[]
 
-
 Welcome to my review of the SkyRC Q200 review. +
 Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for sending me this charger and making all of this possible!
 
@@ -15,18 +14,21 @@ Let’s firstly take a look at the box that the Q200 comes in.
 
 It’s a well built box that includes all the information you might need to know printed on the box.
 
-Specifications:
+*Specifications:*
 
  * AC Input: 100 – 240 V (up to 200W)
  * DC Input: 11 – 18 V (up to 300W)
  * Current: Max. 200mA / cell 
  * LiPo / LiFe / LiHV / Li-Ion / NiMH / NiCD / Pb
- * Product weight: 1.335 kg 
- * Package weight: 2.106 kg 
+ * Product weight: 1.3 kg 
+ * Package weight: 2.1 kg 
  * Product size (L x W x H): 19.70 x 18.20 x 7.10 cm 
  * Package size (L x W x H): 22.00 x 20.00 x 8.00 cm
+ * 4 charging ports, each with it’s own temperature sensor port alongside with the correspondent balance port.
+ * MicroUSB connector for the PC Link Software
+ * USB Power output rated at 5V/2.1A
 
-Inside the box we’ll find the following items:
+*Inside the box we’ll find the following items:*
 
  * SkyRC Q200 Charger
  * Manual
@@ -34,13 +36,14 @@ Inside the box we’ll find the following items:
  * 4 x leads with XT60 connectors (all the XT60 leads come with a plastic holder that make plugging in your leads much easier. A nice touch)
  * 2 x leads with no connector (useful for making your owns connectors, e.g: Deans connector, DC jack, etc.)
  * Power cable
- 
+
 *[ACCESSORIES PICTURES]* +
 But what is the big deal about this new charger from SkyRC? +
 It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues. +
 
 *[BATTERIES CHARGING PICTURES]* +
-The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. It’s also LiHV compatible, which not all chargers are.  +
+The charger has a power switch, which I consider very useful and also has two cooling fans, which while charging are very silent, but when discharging 4 batteries at the same time they can ramp up quite easily. +
+The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. This is very useful when charging LiPo and Li-Ion 18650 cells. It’s also LiHV compatible, which not all chargers are.  +
 
 *[LIPO AND LI ION CHARGING PIC]* +
 It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery. +
@@ -49,16 +52,24 @@ It also allows for AC input without the need for a power supply, due to its inte
 It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels. +
 It also allows for customizable power outputs between channels A/C and B/D when using AC mode. +
 By default each channel is set at 50W, but can easily be changed. This can be useful if you’re charging a big mAh LiPo battery, like a 5000mAh unit since you can set appropriate wattage values for charging.  +
-Once you setup the desired wattage on channel A, for example 70W, then channel C will automatically be set to 30W due to the 100W restriction. +
+Once you setup the desired wattage on channel A, for example 79W, then channel C will automatically be set to 21W due to the 100W restriction.
 
 
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/watts.PNG?raw=trueG[]
+
 
 Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A. +
 Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel. +
 
 *[DISCHARGE PICTURE]* +
-Along with standard features like Battery meter, it also supports IR Resistance measurement, which is useful for battery maintenance.
 
+Along with standard features like Battery meter, it also supports IR Resistance measurement, which is useful for battery maintenance and tracking. +
+*[IR MEASUREMENT picture]*
 
+Another feature of the Q200 charger is that it has its own Bluetooth app for smartphones. +
+From what I’ve been able to tell Bluetooth is always on, although it would be nice if it had an option to turn it off in the settings. +
+Although thinking I would rarely use this app I find it very useful and have come to use it very often. I have set a QR code for LiPo balance charging, which I use often with the app. +
+All I have to do is I scan the QR code and it automatically starts balance charging my 4S LiPo batteries at 1.3A, which is very useful and straight-forward.
+
+*[BLUETOOTH APP]*
 
