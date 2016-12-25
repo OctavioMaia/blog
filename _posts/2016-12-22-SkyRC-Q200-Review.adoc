@@ -1,5 +1,62 @@
-= Welcome to my blog!
+= SkyRC Q200 - Review
 :published_at: 2016-12-22
+:hp-tags: SkyRC, Charger, Q200,
 Octávio Maia <octaviojmaia@gmail.com>
 
-a
+image::http://www.skyrc.com/image/data/980px_en/Q200/01.jpg[]
+
+
+Welcome to my review of the SkyRC Q200 review. +
+Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for sending me this charger and making all of this possible!
+
+Let’s firstly take a look at the box that the Q200 comes in.
+
+*[BOX PICTURES]*
+
+It’s a well built box that includes all the information you might need to know printed on the box.
+
+Specifications:
+
+ * AC Input: 100 – 240 V (up to 200W)
+ * DC Input: 11 – 18 V (up to 300W)
+ * Current: Max. 200mA / cell 
+ * LiPo / LiFe / LiHV / Li-Ion / NiMH / NiCD / Pb
+ * Product weight: 1.335 kg 
+ * Package weight: 2.106 kg 
+ * Product size (L x W x H): 19.70 x 18.20 x 7.10 cm 
+ * Package size (L x W x H): 22.00 x 20.00 x 8.00 cm
+
+Inside the box we’ll find the following items:
+
+ * SkyRC Q200 Charger
+ * Manual
+ * 4 x XH balance boards 
+ * 4 x leads with XT60 connectors (all the XT60 leads come with a plastic holder that make plugging in your leads much easier. A nice touch)
+ * 2 x leads with no connector (useful for making your owns connectors, e.g: Deans connector, DC jack, etc.)
+ * Power cable
+ 
+*[ACCESSORIES PICTURES]* +
+But what is the big deal about this new charger from SkyRC? +
+It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues. +
+
+*[BATTERIES CHARGING PICTURES]* +
+The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. It’s also LiHV compatible, which not all chargers are.  +
+
+*[LIPO AND LI ION CHARGING PIC]* +
+It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery. +
+
+*[POWERBANK PIC]* +
+It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels. +
+It also allows for customizable power outputs between channels A/C and B/D when using AC mode. +
+By default each channel is set at 50W, but can easily be changed. This can be useful if you’re charging a big mAh LiPo battery, like a 5000mAh unit since you can set appropriate wattage values for charging.  +
+Once you setup the desired wattage on channel A, for example 70W, then channel C will automatically be set to 30W due to the 100W restriction. +
+
+*[CHANNEL WATTAGE PICTURE]* +
+Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A. +
+Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel. +
+
+*[DISCHARGE PICTURE]* +
+Along with standard features like Battery meter, it also supports IR Resistance measurement, which is useful for battery maintenance.
+
+
+
