@@ -1,3 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 22 Dec 2016 15:53:12 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Welcome to my blog!]]></title><description><![CDATA[<div class="paragraph">
-<p>a</p>
-</div>]]></description><link>https://OctavioMaia.github.io/2016/12/22/Welcome-to-my-blog.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2016/12/22/Welcome-to-my-blog.html</guid><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Thu, 22 Dec 2016 00:00:00 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Dec 2016 20:09:08 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div class="imageblock">
+<div class="content">
+<img src="http://www.skyrc.com/image/data/980px_en/Q200/01.jpg" alt="01.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>Welcome to my review of the SkyRC Q200 review.<br>
+Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for sending me this charger and making all of this possible!</p>
+</div>
+<div class="paragraph">
+<p>Let’s firstly take a look at the box that the Q200 comes in.</p>
+</div>
+<div class="paragraph">
+<p><strong>[BOX PICTURES]</strong></p>
+</div>
+<div class="paragraph">
+<p>It’s a well built box that includes all the information you might need to know printed on the box.</p>
+</div>
+<div class="paragraph">
+<p>Specifications:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>AC Input: 100 – 240 V (up to 200W)</p>
+</li>
+<li>
+<p>DC Input: 11 – 18 V (up to 300W)</p>
+</li>
+<li>
+<p>Current: Max. 200mA / cell</p>
+</li>
+<li>
+<p>LiPo / LiFe / LiHV / Li-Ion / NiMH / NiCD / Pb</p>
+</li>
+<li>
+<p>Product weight: 1.335 kg</p>
+</li>
+<li>
+<p>Package weight: 2.106 kg</p>
+</li>
+<li>
+<p>Product size (L x W x H): 19.70 x 18.20 x 7.10 cm</p>
+</li>
+<li>
+<p>Package size (L x W x H): 22.00 x 20.00 x 8.00 cm</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Inside the box we’ll find the following items:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>SkyRC Q200 Charger</p>
+</li>
+<li>
+<p>Manual</p>
+</li>
+<li>
+<p>4 x XH balance boards</p>
+</li>
+<li>
+<p>4 x leads with XT60 connectors (all the XT60 leads come with a plastic holder that make plugging in your leads much easier. A nice touch)</p>
+</li>
+<li>
+<p>2 x leads with no connector (useful for making your owns connectors, e.g: Deans connector, DC jack, etc.)</p>
+</li>
+<li>
+<p>Power cable</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>[ACCESSORIES PICTURES]</strong><br>
+But what is the big deal about this new charger from SkyRC?<br>
+It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues.<br></p>
+</div>
+<div class="paragraph">
+<p><strong>[BATTERIES CHARGING PICTURES]</strong><br>
+The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. It’s also LiHV compatible, which not all chargers are. <br></p>
+</div>
+<div class="paragraph">
+<p><strong>[LIPO AND LI ION CHARGING PIC]</strong><br>
+It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery.<br></p>
+</div>
+<div class="paragraph">
+<p><strong>[POWERBANK PIC]</strong><br>
+It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels.<br>
+It also allows for customizable power outputs between channels A/C and B/D when using AC mode.<br>
+By default each channel is set at 50W, but can easily be changed. This can be useful if you’re charging a big mAh LiPo battery, like a 5000mAh unit since you can set appropriate wattage values for charging. <br>
+Once you setup the desired wattage on channel A, for example 70W, then channel C will automatically be set to 30W due to the 100W restriction.<br></p>
+</div>
+<div class="paragraph">
+<p><strong>[CHANNEL WATTAGE PICTURE]</strong><br>
+Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A.<br>
+Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel.<br></p>
+</div>
+<div class="paragraph">
+<p><strong>[DISCHARGE PICTURE]</strong><br>
+Along with standard features like Battery meter, it also supports IR Resistance measurement, which is useful for battery maintenance.</p>
+</div>]]></description><link>https://OctavioMaia.github.io/2016/12/22/SkyRC-Q200-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2016/12/22/SkyRC-Q200-Review.html</guid><category><![CDATA[SkyRC]]></category><category><![CDATA[ Charger]]></category><category><![CDATA[ Q200]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Thu, 22 Dec 2016 00:00:00 GMT</pubDate></item></channel></rss>
