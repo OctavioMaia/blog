@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Dec 2016 20:52:03 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Dec 2016 20:55:39 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -109,12 +109,21 @@ The charger has a power switch, which I consider very useful and also has two co
 The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. This is very useful when charging LiPo and Li-Ion 18650 cells. It’s also LiHV compatible, which not all chargers are. <br></p>
 </div>
 <div class="paragraph">
-<p><strong>[LIPO AND LI ION CHARGING PIC]</strong><br>
-It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery.<br></p>
+<p><strong>[LIPO AND LI ION CHARGING PIC]</strong><br></p>
+</div>
+<div class="sect3">
+<h4 id="_field_charging">Field Charging</h4>
+<div class="paragraph">
+<p>It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery.<br></p>
 </div>
 <div class="paragraph">
-<p><strong>[POWERBANK PIC]</strong><br>
-It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels.<br>
+<p><strong>[POWERBANK PIC]</strong></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_charging_procedure">Charging procedure</h4>
+<div class="paragraph">
+<p>It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels.<br>
 It also allows for customizable power outputs between channels A/C and B/D when using AC mode.<br>
 By default each channel is set at 50W, but can easily be changed. This can be useful if you’re charging a big mAh LiPo battery, like a 5000mAh unit since you can set appropriate wattage values for charging. <br>
 Once you setup the desired wattage on channel A, for example 79W, then channel C will automatically be set to 21W due to the 100W restriction.</p>
@@ -125,16 +134,33 @@ Once you setup the desired wattage on channel A, for example 79W, then channel C
 </div>
 </div>
 <div class="paragraph">
-<p>Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A.<br>
-Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel.<br></p>
+<p>Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A.<br></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_discharging">Discharging</h4>
+<div class="paragraph">
+<p>Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel.<br></p>
 </div>
 <div class="paragraph">
-<p><strong>[DISCHARGE PICTURE]</strong><br></p>
+<p><strong>[DISCARGE PIC]</strong></p>
 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_extra_features">Extra Features</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_ir_measurement">IR Measurement</h3>
 <div class="paragraph">
 <p>Along with standard features like Battery meter, it also supports IR Resistance measurement, which is useful for battery maintenance and tracking.<br>
 <strong>[IR MEASUREMENT picture]</strong></p>
 </div>
+</div>
+<div class="sect2">
+<h3 id="_bluetooth_app">Bluetooth App</h3>
 <div class="paragraph">
 <p>Another feature of the Q200 charger is that it has its own Bluetooth app for smartphones.<br>
 From what I’ve been able to tell Bluetooth is always on, although it would be nice if it had an option to turn it off in the settings.<br>
@@ -144,6 +170,10 @@ All I have to do is I scan the QR code and it automatically starts balance charg
 <div class="paragraph">
 <p><strong>[BLUETOOTH APP]</strong></p>
 </div>
+</div>
+<div class="sect2">
+<h3 id="_device_charging">Device charging</h3>
+
 </div>
 </div>
 </div>]]></description><link>https://OctavioMaia.github.io/2016/12/22/SkyRC-Q200-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2016/12/22/SkyRC-Q200-Review.html</guid><category><![CDATA[SkyRC]]></category><category><![CDATA[ Charger]]></category><category><![CDATA[ Q200]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Thu, 22 Dec 2016 00:00:00 GMT</pubDate></item></channel></rss>
