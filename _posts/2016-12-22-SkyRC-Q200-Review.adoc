@@ -5,14 +5,19 @@ Octávio Maia <octaviojmaia@gmail.com>
 
 image::http://www.skyrc.com/image/data/980px_en/Q200/01.jpg[]
 
+== Introduction
+
 Welcome to my review of the SkyRC Q200 review. +
 Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for sending me this charger and making all of this possible!
+
+== Overview
 
 Let’s firstly take a look at the box that the Q200 comes in.
 
 *[BOX PICTURES]*
 
 It’s a well built box that includes all the information you might need to know printed on the box.
+
 
 *Specifications:*
 
@@ -28,7 +33,9 @@ It’s a well built box that includes all the information you might need to know
  * MicroUSB connector for the PC Link Software
  * USB Power output rated at 5V/2.1A
 
-*Inside the box we’ll find the following items:*
+=== Unboxing
+
+Inside the box we'll find the following items:
 
  * SkyRC Q200 Charger
  * Manual
@@ -40,6 +47,8 @@ It’s a well built box that includes all the information you might need to know
 *[ACCESSORIES PICTURES]* +
 But what is the big deal about this new charger from SkyRC? +
 It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues. +
+
+=== Charging
 
 *[BATTERIES CHARGING PICTURES]* +
 The charger has a power switch, which I consider very useful and also has two cooling fans, which while charging are very silent, but when discharging 4 batteries at the same time they can ramp up quite easily. +
