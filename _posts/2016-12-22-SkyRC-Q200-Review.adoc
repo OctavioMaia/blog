@@ -52,7 +52,7 @@ By default each channel is set at 50W, but can easily be changed. This can be us
 Once you setup the desired wattage on channel A, for example 70W, then channel C will automatically be set to 30W due to the 100W restriction. +
 
 
-image::http://github.com/OctavioMaia/octaviomaia.github.io/images/watts.PNG[]
+image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/watts.PNG?raw=trueG[]
 
 Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A. +
 Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel. +
