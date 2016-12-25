@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Dec 2016 20:46:00 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div class="imageblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Dec 2016 20:52:03 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
 <div class="content">
 <img src="http://www.skyrc.com/image/data/980px_en/Q200/01.jpg" alt="01.jpg">
 </div>
 </div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_introduction">Introduction</h2>
+<div class="sectionbody">
 <div class="paragraph">
 <p>Welcome to my review of the SkyRC Q200 review.<br>
 Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for sending me this charger and making all of this possible!</p>
 </div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_overview">Overview</h2>
+<div class="sectionbody">
 <div class="paragraph">
 <p>Let’s firstly take a look at the box that the Q200 comes in.</p>
 </div>
@@ -56,8 +68,10 @@ Before heading further into this review, I’d like to thank Shawn Tong over at 
 </li>
 </ul>
 </div>
+<div class="sect2">
+<h3 id="_unboxing">Unboxing</h3>
 <div class="paragraph">
-<p><strong>Inside the box we’ll find the following items:</strong></p>
+<p>Inside the box we&#8217;ll find the following items:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -86,6 +100,9 @@ Before heading further into this review, I’d like to thank Shawn Tong over at 
 But what is the big deal about this new charger from SkyRC?<br>
 It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues.<br></p>
 </div>
+</div>
+<div class="sect2">
+<h3 id="_charging">Charging</h3>
 <div class="paragraph">
 <p><strong>[BATTERIES CHARGING PICTURES]</strong><br>
 The charger has a power switch, which I consider very useful and also has two cooling fans, which while charging are very silent, but when discharging 4 batteries at the same time they can ramp up quite easily.<br>
@@ -126,4 +143,7 @@ All I have to do is I scan the QR code and it automatically starts balance charg
 </div>
 <div class="paragraph">
 <p><strong>[BLUETOOTH APP]</strong></p>
+</div>
+</div>
+</div>
 </div>]]></description><link>https://OctavioMaia.github.io/2016/12/22/SkyRC-Q200-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2016/12/22/SkyRC-Q200-Review.html</guid><category><![CDATA[SkyRC]]></category><category><![CDATA[ Charger]]></category><category><![CDATA[ Q200]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Thu, 22 Dec 2016 00:00:00 GMT</pubDate></item></channel></rss>
