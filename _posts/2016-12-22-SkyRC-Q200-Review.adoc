@@ -5,10 +5,10 @@ Octávio Maia <octaviojmaia@gmail.com>
 
 image::http://www.skyrc.com/image/data/980px_en/Q200/01.jpg[]
 
-== Introduction
+== Introduction 
 
 Welcome to my review of the SkyRC Q200 review. +
-Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for sending me this charger and making all of this possible!
+Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for making this review possible and Pedro over at Ibermodel for sending the actual unit for review!
 
 == Overview
 
@@ -33,7 +33,7 @@ It’s a well built box that includes all the information you might need to know
  * MicroUSB connector for the PC Link Software
  * USB Power output rated at 5V/2.1A
 
-=== Unboxing
+== Unboxing
 
 Inside the box we'll find the following items:
 
@@ -46,9 +46,16 @@ Inside the box we'll find the following items:
 
 *[ACCESSORIES PICTURES]* +
 But what is the big deal about this new charger from SkyRC? +
-It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues. +
+It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues. 
 
-=== Charging
+This is a very well built charger, and while made of platic, it's a very high quality finish. +
+I rather enjoy the plastic unit instead of aluminum due to the impossibility of accidentally shorting something on the metal frame.
+
+All the cables are made of high quality silicone wire, which is a must nowadays. +
+The manual is also very well printed and has everything needed in case you are unware how the charger works.
+
+
+== Charging
 
 *[BATTERIES CHARGING PICTURES]* +
 The charger has a power switch, which I consider very useful and also has two cooling fans, which while charging are very silent, but when discharging 4 batteries at the same time they can ramp up quite easily. +
@@ -56,25 +63,25 @@ The Q200 main advantage over it’s competition is it’s compact size and the 4
 
 *[LIPO AND LI ION CHARGING PIC]* +
 
-==== Field Charging
+=== Field Charging
 
 It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery. +
 
 *[POWERBANK PIC]* 
 
-==== Charging procedure
+=== Charging procedure
 
-It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels. +
+It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels (sadly this is not a touch screen, but for the price point it's understandable). +
 It also allows for customizable power outputs between channels A/C and B/D when using AC mode. +
 By default each channel is set at 50W, but can easily be changed. This can be useful if you’re charging a big mAh LiPo battery, like a 5000mAh unit since you can set appropriate wattage values for charging.  +
-Once you setup the desired wattage on channel A, for example 79W, then channel C will automatically be set to 21W due to the 100W restriction.
+Once you setup the desired wattage on channel B, for example 79W, then channel D will automatically be set to 21W due to the 100W restriction. The same happens on channels A and C.
 
 
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/watts.PNG?raw=trueG[]
 
 Channels A/C can be used to charge up to 10A, while C/D can charge up to 5A. +
 
-==== Discharging
+=== Discharging
 
 Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel. +
 
@@ -97,3 +104,35 @@ All I have to do is I scan the QR code and it automatically starts balance charg
 *[BLUETOOTH APP]*
 
 === Device charging
+
+This device also supports charging any device that can be charged using an USB Port. It outputs 5V/2.1A which is more than enough for charging your typical smartphone or tablet device. Due to outputting 2.1A it can also charge more power dense devices, like powerbanks.
+
+*[DEVICE CHARGING]*
+
+== Ending thoughts
+
+What can I say about this charger? Is it good enough to recommend purchasing? +
+Shortly, yes, definitely!
+
+*Pros:*
+
+	* Well built.
+    * Allows up to 4 batteries charging at the same time.
+    * LiHV support.
+    * Built-in power supply!
+    * Compact size.
+    * Supports AC and DC current.
+    * Beautiful and intuitive screen.
+    * Bluetooth app support.
+    * QR Code support.
+
+*Cons:*
+
+	* No way to turn off Bluetooth (minor complaint here)
+    * No touch screen.
+    * 200W may not be enough when charging several high capacity LiPo batteries at 1C.
+
+If you're interested in purchasing a SkyRC Q200, be sure to reach out to Pedro over at Ibermodel. He'll be sure to have one shipped to you at a very affordable price.
+
+Email: pedro@ibermodel.es +
+Telephone: 945601444 (Spain)
