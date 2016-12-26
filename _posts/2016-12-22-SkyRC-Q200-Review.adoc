@@ -123,7 +123,7 @@ Shortly, yes, definitely!
     * Compact size.
     * Supports AC and DC current.
     * Beautiful and intuitive screen.
-    * Bluetooth app support.
+    * Bluetooth and PC app support.
     * QR Code support.
 
 *Cons:*
