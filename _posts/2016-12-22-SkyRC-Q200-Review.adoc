@@ -60,7 +60,7 @@ The manual is also very well printed and has everything needed in case you are u
 
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadorcima.jpg?raw=trueG[]
 
-The front part of the charger clearly specifies which buttons are which. They work the same way as in a standard 4-button charger, the first button being for channel selection.
+The front part of the charger clearly specifies which buttons are which, as well as the 4 channel order. They work the same way as in a standard 4-button charger, the first button being for channel selection.
 
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadortras.jpg?raw=trueG[]
 
