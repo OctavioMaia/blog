@@ -53,7 +53,7 @@ image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q
 But what is the big deal about this new charger from SkyRC? +
 It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues. 
 
-This is a very well built charger, and while made of platic, it's a very high quality finish. +
+This is a very well built charger, and while made of plastic, it's a very high quality finish. +
 I rather enjoy the plastic unit instead of aluminum due to the impossibility of accidentally shorting something on the metal frame.
 
 All the cables are made of high quality silicone wire, which is a must nowadays. +
