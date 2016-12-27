@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octavio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg</url><title>Octavio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 27 Dec 2016 23:39:05 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octavio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg</url><title>Octavio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 27 Dec 2016 23:43:29 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -269,7 +269,7 @@ In this case we&#8217;re using a 49000mAh powerbank made of 18650 cells. It outp
 <p>Another feature of the Q200 charger is that it has its own Bluetooth app for smartphones.<br>
 From what I’ve been able to tell Bluetooth is always on, although it would be nice if it had an option to turn it off in the settings.<br>
 Although thinking I would rarely use this app I find it very useful and have come to use it very often. I have set a QR code for LiPo balance charging, which I use often with the app.<br>
-All I have to do is I scan the QR code and it automatically starts balance charging my 4S LiPo batteries at 1.3A, which is very useful and straight-forward.</p>
+All I have to do is scan the QR code and it automatically starts balance charging my 4S LiPo batteries at 1.3A, which is very useful and straight-forward.</p>
 </div>
 <div class="imageblock">
 <div class="content">
