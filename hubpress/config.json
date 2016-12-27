@@ -7,7 +7,8 @@
   "site": {
     "title": "Octavio's Blog",
     "description": "A no frills blog about various stuff.",
-    "logo": "https://s-media-cache-ak0.pinimg.com/236x/85/ef/19/85ef19642ba41f5af79bc4f8122eb119.jpg"
+    "logo": "",
+    "cover": "https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc.jpg"
   },
   "socialnetwork": {},
   "theme": {
