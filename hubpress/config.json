@@ -9,7 +9,7 @@
     "description": "A no frills blog about various stuff.",
     "logo": "",
     "cover": "https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg",
-    "postsPerPage": "1"
+    "postsPerPage": ""
   },
   "socialnetwork": {
     "email": "octaviojmaia@gmail.com",
@@ -19,6 +19,6 @@
     "github": "https://github.com/OctavioMaia"
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   }
 }
