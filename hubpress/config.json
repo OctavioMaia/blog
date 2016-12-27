@@ -8,7 +8,8 @@
     "title": "Octavio's Blog",
     "description": "A no frills blog about various stuff.",
     "logo": "",
-    "cover": "https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg"
+    "cover": "https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg",
+    "postsPerPage": "1"
   },
   "socialnetwork": {
     "email": "octaviojmaia@gmail.com",
