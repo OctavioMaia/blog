@@ -1,4 +1,5 @@
 = SkyRC Q200 - Review
+:hp-image::http://i.imgur.com/DkFsnwt.png[]
 :published_at: 2016-12-22
 :hp-tags: SkyRC, Charger, Q200,
 Octávio Maia <octaviojmaia@gmail.com>
