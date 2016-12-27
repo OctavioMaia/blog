@@ -135,7 +135,7 @@ image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q
 Another feature of the Q200 charger is that it has its own Bluetooth app for smartphones. +
 From what I’ve been able to tell Bluetooth is always on, although it would be nice if it had an option to turn it off in the settings. +
 Although thinking I would rarely use this app I find it very useful and have come to use it very often. I have set a QR code for LiPo balance charging, which I use often with the app. +
-All I have to do is I scan the QR code and it automatically starts balance charging my 4S LiPo batteries at 1.3A, which is very useful and straight-forward.
+All I have to do is scan the QR code and it automatically starts balance charging my 4S LiPo batteries at 1.3A, which is very useful and straight-forward.
 
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/app1.jpg?raw=trueG[]
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/app2.jpg?raw=trueG[]
