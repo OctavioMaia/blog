@@ -10,7 +10,13 @@
     "logo": "",
     "cover": "https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc.jpg"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "octaviojmaia@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/octaviojmaia",
+    "facebook": "https://www.facebook.com/octavio.maia.77",
+    "flickr": "https://www.flickr.com/photos/141945616@N03/",
+    "github": "https://github.com/OctavioMaia"
+  },
   "theme": {
     "name": "casper"
   }
