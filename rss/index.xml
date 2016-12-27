@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 26 Dec 2016 13:23:22 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://OctavioMaia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 27 Dec 2016 20:54:43 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -11,8 +11,8 @@
 <h2 id="_introduction">Introduction</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Welcome to my review of the SkyRC Q200 review.<br>
-Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for making this review possible and Pedro over at Ibermodel for sending the actual unit for review!</p>
+<p>Welcome to my review of the SkyRC Q200 charger.<br>
+Before heading further into this review, I’d like to thank Shawn Tong over at SkyRC for making this review possible and Pedro over at Ibermodel for sending the actual unit!</p>
 </div>
 </div>
 </div>
@@ -22,11 +22,24 @@ Before heading further into this review, I’d like to thank Shawn Tong over at 
 <div class="paragraph">
 <p>Let’s firstly take a look at the box that the Q200 comes in.</p>
 </div>
-<div class="paragraph">
-<p><strong>[BOX PICTURES]</strong></p>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/boxfrente.jpg?raw=trueG" alt="boxfrente.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/boxlado.jpg?raw=trueG" alt="boxlado.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/boxtras.jpg?raw=trueG" alt="boxtras.jpg?raw=trueG">
+</div>
 </div>
 <div class="paragraph">
-<p>It’s a well built box that includes all the information you might need to know printed on the box.</p>
+<p>It’s a well built box that includes all the information you might need to know printed on the box.<br>
+It clearly specifies the total wattage on AC and DC input, as well as the type of batteries it can charge.</p>
 </div>
 <div class="paragraph">
 <p><strong>Specifications:</strong></p>
@@ -98,9 +111,13 @@ Before heading further into this review, I’d like to thank Shawn Tong over at 
 </li>
 </ul>
 </div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/acessorios.jpg?raw=trueG" alt="acessorios.jpg?raw=trueG">
+</div>
+</div>
 <div class="paragraph">
-<p><strong>[ACCESSORIES PICTURES]</strong><br>
-But what is the big deal about this new charger from SkyRC?<br>
+<p>But what is the big deal about this new charger from SkyRC?<br>
 It’s the latest 4-port charger from SkyRC, making it very useful for charging multiple LiPo batteries at the same time without resorting to parallel boards that can often cause unbalanced cells or other issues.</p>
 </div>
 <div class="paragraph">
@@ -111,30 +128,72 @@ I rather enjoy the plastic unit instead of aluminum due to the impossibility of 
 <p>All the cables are made of high quality silicone wire, which is a must nowadays.<br>
 The manual is also very well printed and has everything needed in case you are unware how the charger works.</p>
 </div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadorcima.jpg?raw=trueG" alt="carregadorcima.jpg?raw=trueG">
+</div>
+</div>
+<div class="paragraph">
+<p>The front part of the charger clearly specifies which buttons are which. They work the same way as in a standard 4-button charger, the first button being for channel selection.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadortras.jpg?raw=trueG" alt="carregadortras.jpg?raw=trueG">
+</div>
+</div>
+<div class="paragraph">
+<p>On the back we&#8217;ll find the two energy input sources, AC and DC. The charger has a built-in power supply, so thats a huge plus for me.<br>
+There&#8217;s also there&#8217;s a power switch for added safety (the power switch only works for AC current).</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadoracessorios.jpg?raw=trueG" alt="carregadoracessorios.jpg?raw=trueG">
+</div>
+</div>
+<div class="paragraph">
+<p>After powering the unit up we&#8217;ll be greated with a warning message, after which we&#8217;re ready to start charging.</p>
+</div>
 </div>
 </div>
 <div class="sect1">
 <h2 id="_charging">Charging</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p><strong>[BATTERIES CHARGING PICTURES]</strong><br>
-The charger has a power switch, which I consider very useful and also has two cooling fans, which while charging are very silent, but when discharging 4 batteries at the same time they can ramp up quite easily.<br>
-The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. This is very useful when charging LiPo and Li-Ion 18650 cells. It’s also LiHV compatible, which not all chargers are. <br></p>
+<p>The charger has a power switch, which I consider very useful and also has two cooling fans, which while charging are very silent, but when discharging 4 batteries at the same time they can ramp up quite easily.<br></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/charging.jpg?raw=trueG" alt="charging.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/charging2.jpg?raw=trueG" alt="charging2.jpg?raw=trueG">
+</div>
 </div>
 <div class="paragraph">
-<p><strong>[LIPO AND LI ION CHARGING PIC]</strong><br></p>
+<p>The Q200 main advantage over it’s competition is it’s compact size and the 4 completely independent charging ports, that can easily be configured to charge different chemistry batteries at the same time, without causing issues to other packs. This is very useful when charging LiPo and Li-Ion 18650 cells. It’s also LiHV compatible, which not all chargers are. <br></p>
 </div>
-<div class="sect2">
-<h3 id="_field_charging">Field Charging</h3>
-<div class="paragraph">
-<p>It also allows for AC input without the need for a power supply, due to its integrated power supply. It’s also capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery.<br></p>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/lipo2.jpg?raw=trueG" alt="lipo2.jpg?raw=trueG">
+</div>
 </div>
 <div class="paragraph">
-<p><strong>[POWERBANK PIC]</strong></p>
+<p>This charger also has reverse polarity protection, useful in case you accidentally plug in the banana plugs the wrong way. Very well done SkyRC!</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/polarity.jpg?raw=trueG" alt="polarity.jpg?raw=trueG">
 </div>
 </div>
 <div class="sect2">
 <h3 id="_charging_procedure">Charging procedure</h3>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadoron.jpg?raw=trueG" alt="carregadoron.jpg?raw=trueG">
+</div>
+</div>
 <div class="paragraph">
 <p>It’s a very intuitive charger, and can be controlled like all standard 4-button chargers, with another button to control which channel is selected. Everything is displayed on a very nice quality colour screen, with a resolution of 480x320 pixels (sadly this is not a touch screen, but for the price point it&#8217;s understandable).<br>
 It also allows for customizable power outputs between channels A/C and B/D when using AC mode.<br>
@@ -155,8 +214,32 @@ Once you setup the desired wattage on channel B, for example 79W, then channel D
 <div class="paragraph">
 <p>Discharge rates are limited to 10W per channel, which for 4s is 0.6A per channel.<br></p>
 </div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/discharging.jpg?raw=trueG" alt="discharging.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/discharging2.jpg?raw=trueG" alt="discharging2.jpg?raw=trueG">
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_field_charging">Field Charging</h3>
 <div class="paragraph">
-<p><strong>[DISCARGE PIC]</strong></p>
+<p>As said before, it&#8217;s capable of using DC current, which can be useful for field charging with a car battery or even a big LiPo battery.<br>
+In this case we&#8217;re using a 49000mAh powerbank made of 18650 cells. It outputs 16.4V when fully charged, which is perfect, since the Q200 can take 11-18V DC.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/dc1.jpg?raw=trueG" alt="dc1.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/dc2.jpg?raw=trueG" alt="dc2.jpg?raw=trueG">
+</div>
 </div>
 </div>
 </div>
@@ -167,8 +250,17 @@ Once you setup the desired wattage on channel B, for example 79W, then channel D
 <div class="sect2">
 <h3 id="_ir_measurement">IR Measurement</h3>
 <div class="paragraph">
-<p>Along with standard features like Battery meter, it also supports IR Resistance measurement, which is useful for battery maintenance and tracking.<br>
-<strong>[IR MEASUREMENT picture]</strong></p>
+<p>Along with standard features like Battery meter, it also supports IR (Internal Resistance) measurement, which is useful for battery maintenance and tracking.<br></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/battmeter.jpg?raw=trueG" alt="battmeter.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/resistance.jpg?raw=trueG" alt="resistance.jpg?raw=trueG">
+</div>
 </div>
 </div>
 <div class="sect2">
@@ -179,8 +271,15 @@ From what I’ve been able to tell Bluetooth is always on, although it would be 
 Although thinking I would rarely use this app I find it very useful and have come to use it very often. I have set a QR code for LiPo balance charging, which I use often with the app.<br>
 All I have to do is I scan the QR code and it automatically starts balance charging my 4S LiPo batteries at 1.3A, which is very useful and straight-forward.</p>
 </div>
-<div class="paragraph">
-<p><strong>[BLUETOOTH APP]</strong></p>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/app1.jpg?raw=trueG" alt="app1.jpg?raw=trueG">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/app2.jpg?raw=trueG" alt="app2.jpg?raw=trueG">
+</div>
 </div>
 </div>
 <div class="sect2">
@@ -188,8 +287,10 @@ All I have to do is I scan the QR code and it automatically starts balance charg
 <div class="paragraph">
 <p>This device also supports charging any device that can be charged using an USB Port. It outputs 5V/2.1A which is more than enough for charging your typical smartphone or tablet device. Due to outputting 2.1A it can also charge more power dense devices, like powerbanks.</p>
 </div>
-<div class="paragraph">
-<p><strong>[DEVICE CHARGING]</strong></p>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/dc3.jpg?raw=trueG" alt="dc3.jpg?raw=trueG">
+</div>
 </div>
 </div>
 </div>
