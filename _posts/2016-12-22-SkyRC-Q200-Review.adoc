@@ -66,7 +66,7 @@ The front part of the charger clearly specifies which buttons are which, as well
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadortras.jpg?raw=trueG[]
 
 On the back we'll find the two energy input sources, AC and DC. The charger has a built-in power supply, so thats a huge plus for me. +
-There's also there's a power switch for added safety (the power switch only works for AC current). 
+There's also a power switch for added safety (the power switch only works for AC current). 
 
 image::https://github.com/OctavioMaia/octaviomaia.github.io/blob/master/images/q200-post/carregadoracessorios.jpg?raw=trueG[]
 
