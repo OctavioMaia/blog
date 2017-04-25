@@ -1,6 +1,6 @@
 = BumpBee_S 30A ESC - Review
 :hp-image::http://i.imgur.com/DkFsnwt.png[]
-:published_at: 2016-12-22
+:published_at: 2017-04-15
 :hp-tags: Bumpbee, ESC, DSHOT
 Octávio Maia <octaviojmaia@gmail.com>
 
