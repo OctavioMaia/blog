@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octavio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg</url><title>Octavio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Apr 2017 12:45:23 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[BumpBee_S 30A ESC - Review]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octavio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>https://github.com/OctavioMaia/octaviomaia.github.io---bak/raw/master/img/lighttrail_vc_comp.jpg</url><title>Octavio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Apr 2017 12:51:00 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[BumpBee_S 30A ESC - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -44,6 +44,9 @@ Before heading further into this review, I’d like to thank the folks over at A
 </li>
 <li>
 <p>15*30mm</p>
+</li>
+<li>
+<p>2.9g</p>
 </li>
 </ul>
 </div>
@@ -141,6 +144,16 @@ Shortly, yes, definitely!</p>
 </div>
 <div class="paragraph">
 <p>Purchase link: <a href="http://shop.myairbot.com/index.php/bumpbee-s.html" class="bare">http://shop.myairbot.com/index.php/bumpbee-s.html</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_small_video_review">Small video review</h2>
+<div class="sectionbody">
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/0LnJlJCGWac?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 </div>]]></description><link>https://OctavioMaia.github.io/2017/04/15/Bump-Bee-S-30A-ESC-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/04/15/Bump-Bee-S-30A-ESC-Review.html</guid><category><![CDATA[Bumpbee]]></category><category><![CDATA[ ESC]]></category><category><![CDATA[ DSHOT]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Sat, 15 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[SkyRC Q200 - Review]]></title><description><![CDATA[<div id="preamble">
