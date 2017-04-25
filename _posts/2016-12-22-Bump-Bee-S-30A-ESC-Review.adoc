@@ -1,0 +1,79 @@
+= BumpBee_S 30A ESC - Review
+:hp-image::http://i.imgur.com/DkFsnwt.png[]
+:published_at: 2016-12-22
+:hp-tags: Bumpbee, ESC, DSHOT
+Octávio Maia <octaviojmaia@gmail.com>
+
+image::data:image/png;base64,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[]
+
+== Introduction 
+
+Welcome to my review of the Bumpbee 30A BLHeli_S ESC. +
+Before heading further into this review, I’d like to thank the folks over at AirBot for making this review possible!
+
+== Overview
+
+Let’s firstly take a look at the package that the BumpBee ESC comes in.
+
+
+*Specifications:*
+
+* 3-6S capable
+
+* Rated for 30A continuous and 40A burst
+
+* BB21 MCU, runs BLHELI_S firmware (J_H_90)
+
+* Oneshot / Multishop / DShot support
+
+* 3x RGB LED
+
+* 15*30mm
+
+
+== Analysis
+
+One of the first things that stood out to me was the extremely good build quality that these ESC have! +
+I've never seen anything like this. +
+Another great thing about them is the big solder pads! No more fiddling around with tiny solder pads that can potentially fry your ESC. 
+
+image::http://i.imgur.com/tYNvVK9.png[]
+
+So why is this ESC any special? +
+They are rocking the BB21 MCU (48Mhz) and have support for DShot600. While this may seem like standard at the moment of writing it wasn't the case when they launched. +
+They are using large IR5301 NFETs which are rated up to 100A, and a 4-layer PCB w/ 3oz copper.
+
+image::http://i.imgur.com/pgy06ku.png[]
+
+One unique thing about this ESC is that it has a status LED. This LED changes colour based on the quadcopter status.
+If it is armed the LED turns red and when unarmed it stays orange. The other colour is green, which is displayed when the quadcopter isn't connected to a radio.
+
+They are also agressively priced, you can find them for around 12-14$ each, and if you buy a pack of 5 it becomes even cheaper!
+
+This ESC is so good that it's sold under various names, the most notorious being Raceflight. +
+It's their official ESC, so you can see how good they are!
+
+== Conclusion
+
+What can I say about this charger? Is it good enough to recommend purchasing? +
+Shortly, yes, definitely!
+
+*Pros:*
+
+	* Extremely well built.
+    * Allows up to 40A.
+    * 3-6S capable.
+    * DShot600 support.
+    * Compact size.
+    * Extremely well laid out ESC.
+    * Quality components.
+    * Big solder pads.
+
+*Cons:*
+
+	* Very basic packaging.
+    * No wires or heatshrink.
+
+If you're interested in purchasing some of these ESC, be sure to order them from AirBot!
+
+Purchase link: http://shop.myairbot.com/index.php/bumpbee-s.html
