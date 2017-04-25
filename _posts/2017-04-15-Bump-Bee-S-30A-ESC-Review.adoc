@@ -30,6 +30,8 @@ Let’s firstly take a look at the package that the BumpBee ESC comes in.
 
 * 15*30mm
 
+* 2.9g
+
 
 == Analysis
 
@@ -77,3 +79,7 @@ Shortly, yes, definitely!
 If you're interested in purchasing some of these ESC, be sure to order them from AirBot!
 
 Purchase link: http://shop.myairbot.com/index.php/bumpbee-s.html
+
+== Small video review
+
+video::0LnJlJCGWac[youtube]
