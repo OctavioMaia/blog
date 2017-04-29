@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "OctavioMaia",
-    "repositoryName": "octaviomaia.github.io",
-    "branch": "master"
+    "repositoryName": "blog",
+    "branch": "gh-pages"
   },
   "site": {
     "title": "Octavio's Blog",
