@@ -1,0 +1,115 @@
+= Kiwi.F4 V2 
+:hp-image::http://i.imgur.com/DkFsnwt.png[]
+:published_at: 2017-05-01
+:hp-tags: FlyingLemon, FC, F4, OSD, PDB
+Octávio Maia <octaviojmaia@gmail.com>
+
+image::https://flyinglemon.eu/img/power-for-fpv-racers-logo-1437144323.jpg[]
+
+== Introduction 
+
+Welcome to my review of the Kiwi.F4 V2 Flight Controller and the Kiwi PDB. +
+Before heading further into this review, I’d like to thank the John Lemon for making this review possible!
+
+== Overview
+
+Let's start off by taking a closer look at the packaging. +
+As we can see FlyingLemon is using a nice cardboard box, which may not seem special at first, but after opening it up we see specially cut holes for both the Flight Controller and PDB.
+
+image::http://i.imgur.com/uR2gp60.jpg[]
+
+image::http://i.imgur.com/uoiwssk.jpg[]
+
+In the box we'll find both the Flight controller and PDB, plus some nylon hardware. +
+An overall good package from FlyingLemon.
+
+*Specifications:*
+
+* Up to 6S input.
+
+* F4 MCU running @170mhz.
+
+* MPU6000 gyro.
+
+* 12V/0.7A linear BEC for video line w/ LC-Filter
+
+* Switching 5V step-down rated @ 600mA
+
+* Betaflight OSD
+
+* VBAT, RSSI, Current sensor (up to 160A)
+
+* SBUS inverter
+
+* Full sized SD Card slot.
+
+* etc.
+
+
+== Analysis
+
+One of the first things that stood out to me was the extremely good build quality of both parts! +
+I'm also glad that they are now using pads instead of through holes on the FC, which makes for much easier wiring.
+
+image::http://i.imgur.com/1XKRUdq.jpg[]
+
+On the back side we'll find the SD Card slot, the ATMEL chip that runs the OSD, the 5V step-down and a special pin connector that we'll discuss further in this review.
+
+image::http://i.imgur.com/h5MQaeA.jpg[]
+
+== Diving further into the Kiwi.V2
+
+So what makes the Kiwi.V2 any good? +
+For once, it's a completely modular system that doesn't require the use of the Kiwi PDB.
+
+* Ripped off a signal pad on the PDB? +
+Use the spare one on the Flight controller. 
+
+* You don't feel like using the included PDB, but want to take advantage of the 12V filtering? +
+No problem, use any PDB of your choice. The Kiwi has the 12V regulator on the FC itself.
+
+The other major selling point to me is the combination of both FC and PDB. +
+I believe the Kiwi.V1 was the first available product to use such a ingenious system! +
+Wire your motors and signal wire to the PDB and through pins, connect both the FC and PDB for a super clean build and short stack. 
+
+Here's how it looks.
+
+image::http://i.imgur.com/ySAH8wl.jpg[]
+image::http://i.imgur.com/zQ4Yh1O.jpg[]
+image::http://i.imgur.com/ULa0Unf.jpg[]
+
+
+== Conclusion
+
+Would I recommend this FC and PDB? Yes! +
+I'm yet to find someone that combines this well.
+
+I may be a huge fan of my RROSD and FC combo, but this stack is way smaller and cleaner looking. +
+The video feed is just perfect and extremely clean.
+
+*Pros:*
+
+	* Extremely well built.
+    * Allows up to 160A on the current sensor.
+    * 6S capable.
+    * Full sized SD Card slot.
+    * Compact stack.
+    * Extremely well laid out.
+    * Quality components.
+    * Extremely well laid out pads.
+    * FC + PDB communication between pins.
+    * Extremely clean filtering.
+	* Well priced.
+    * Sold in the EU.
+    
+*Cons:*
+
+	* Finding them in stock can be difficult.
+
+If you're interested in purchasing the Kiwi, head over to FlyingLemon!
+
+Purchase link: https://flyinglemon.eu/
+
+== Small video review (Portuguese)
+
+video::WJE28_kw9d0[youtube]
