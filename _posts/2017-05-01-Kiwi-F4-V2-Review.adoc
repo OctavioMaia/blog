@@ -4,7 +4,7 @@
 :hp-tags: FlyingLemon, FC, F4, OSD, PDB
 Octávio Maia <octaviojmaia@gmail.com>
 
-image::https://flyinglemon.eu/img/power-for-fpv-racers-logo-1437144323.jpg[]
+image::http://i.imgur.com/17jr2I9.png[]
 
 == Introduction 
 
