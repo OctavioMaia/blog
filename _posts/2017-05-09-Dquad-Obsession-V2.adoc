@@ -1,0 +1,111 @@
+= Dquad Obsession V2 - 
+:hp-image::http://i.imgur.com/DkFsnwt.png[]
+:published_at: 2017-05-09
+:hp-tags: Dquad, Obsession, Frame, V2, 7075
+Octávio Maia <octaviojmaia@gmail.com>
+
+image::http://www.dquad.nl/wp-content/uploads/2017/02/Logo_black_Dquad_Obsession-uai-258x100.jpg[]
+
+== Introduction 
+
+Welcome to my review of the Dquad Obsession V2 frame. +
+Before heading further into this review, I’d like to thank the folks over at Dquad for making this review possible!
+
+== Overview
+
+Sadly I'm yet to assemble this frame as I am waiting for some EFAW 2407R motors, so I'll be using images provived by Dquad. +
+Once I have completed the build I will create a new post regarding my thoughts after flying for a while. +
+So for the time being I will leave my thoughts after seeing and testing the frame on the bench.
+
+image::http://www.dquad.nl/wp-content/uploads/2017/02/cropped-DSC_2998-Editdquad20170208.jpg[]
+
+So let's take a closer look at the frame itself.
+
+*What's in the box:*
+
+* 4mm carbon arms.
+* 2mm bottom and top plate.
+* 2mm PDB
+* 2x 1.5mm FPV side plate
+* 2x 7075 Aluminium roll cage.
+* 2mm VTX mount.
+* PETG XT60 holder.
+* Kit including bolts, nuts and spacers.
+* Battery strap.
+* Stickers.
+* Manual.
+
+== Analysis
+
+*How does this all go together?*
+
+image::https://feelfpv.files.wordpress.com/2017/01/wp-1484095807219.gif?w=616[]
+
+As you can see in the gif above, the Obession is based on a modular design, so in case you snap an arm it's an easy swap. 
+
+image::http://i.imgur.com/vFvFp3z.png[]
+
+A nice touch by Dquad is the included spare top plate, which is used to give structural rigidity to the frame in case you desire to use your own PDB. (shown in the picture above)
+
+image::http://i.imgur.com/1rJEZsS.png[]
+
+They also include a PETG XT60 holder that is used to secure the XT60 connector to the frame. This is a very nice touch that diminishes the chance of your battery lead plugging out when crashing. (shown in the picture above)
+
+
+*What's the difference between this and the first iteration?*
+
+* The arms are now 15mm wide, instead of 13mm.
+* The tipped arm design was abandoned, opting instead of a rounder tip, resulting in a stronger arm.
+* The connection to the central frame area was reinforced.
+* The motor mounting surface was reinforced via adding more carbon to the sides. 
+* The PDB is now 2mm thick instead of 1.6mm.
+* The bottom and top plate are now 2mm thick instead of 1.5mm.
+* The holes on the conical tip of the arm were removed, increasing rigidity.
+
+
+== Diving further into Obsession
+
+
+*So what stands out on this frame?*
+
+One of the first things that stood out to me was the extremely good build quality of all the parts present in this frame! +
+The use of Aluminium 7075 really improves the rigidity of the frame, resulting in a very strong cage that protects both lenses and the components inside. +
+
+image::http://i.imgur.com/YSTNbXF.png[]
+
+The carbon cut is also excellent, one of the best I've ever seen, nothing like the cheap clone frames that are sold everywhere. I'd put this right beside my SCX-200 V2.3 by Armattan in terms of carbon fiber quality.
+
+image::http://i.imgur.com/a9DI0R2.png[]
+
+Another great touch is the HD camera mounting options. +
+Gladly Dquad provides a way to quickly attach an HD camera to the rollcage via 4 screws, making this a very quick and easy installation. +
+They also provide the STL files required to print your own protection right on their website, alongside arm and LiPo protectors and XT60 mounts.
+
+== Conclusion
+
+Would I recommend this frame to anyone who's looking for a premium build quality and durability? +
+Absolutely. Aside from the hefty price tag I cannot think of a single reason not to recommend this frame. 
+
+It's sleek, good looking, great durability and has spare parts in case you ever need them. +
+Great job Dquad!
+
+*Pros:*
+
+	* Great carbon quality and perfect cuts.
+    * Use of 7075 aluminium.
+    * Great looks.
+    * FPV camera is well protected inside the rollcage.
+    * Light'ish weight (94g).
+    * Spare top plate in case you do not want to use the provided PDB.
+    * Session mounts and various other 3D items available to download for free.
+    
+*Cons:*
+
+	* High price tag (95€)
+
+If you're interested in purchasing the Obsession, head over to Dquad!
+
+Purchase link: http://www.dquad.nl/obsession/
+
+== Small video review (Portuguese)
+video::09mtGgnL3r4[youtube]
