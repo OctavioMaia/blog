@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 03 May 2017 14:35:08 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Kiwi.F4 V2 - Review]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 09 May 2017 15:57:34 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Kiwi.F4 V2 - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -223,7 +223,239 @@ The video feed is just perfect and extremely clean.</p>
 </div>
 </div>
 </div>
-</div>]]></description><link>https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</guid><category><![CDATA[FlyingLemon]]></category><category><![CDATA[ FC]]></category><category><![CDATA[ F4]]></category><category><![CDATA[ OSD]]></category><category><![CDATA[ PDB]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[BumpBee_S 30A ESC - Review]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</guid><category><![CDATA[FlyingLemon]]></category><category><![CDATA[ FC]]></category><category><![CDATA[ F4]]></category><category><![CDATA[ OSD]]></category><category><![CDATA[ PDB]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Dquad Obsession V2 - Review]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="http://www.dquad.nl/wp-content/uploads/2017/02/Logo_black_Dquad_Obsession-uai-258x100.jpg" alt="Logo black Dquad Obsession uai 258x100.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_introduction">Introduction</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Welcome to my review of the Dquad Obsession V2 frame.<br>
+Before heading further into this review, I’d like to thank the folks over at Dquad for making this review possible!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_overview">Overview</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Sadly I&#8217;m yet to assemble this frame as I am waiting for some EFAW 2407R motors, so I&#8217;ll be using images provived by Dquad.<br>
+Once I have completed the build I will create a new post regarding my thoughts after flying for a while.<br>
+So for the time being I will leave my thoughts after seeing and testing the frame on the bench.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://www.dquad.nl/wp-content/uploads/2017/02/cropped-DSC_2998-Editdquad20170208.jpg" alt="cropped DSC 2998 Editdquad20170208.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>So let&#8217;s take a closer look at the frame itself.</p>
+</div>
+<div class="paragraph">
+<p><strong>What&#8217;s in the box:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>4mm carbon arms.</p>
+</li>
+<li>
+<p>2mm bottom and top plate.</p>
+</li>
+<li>
+<p>2mm PDB</p>
+</li>
+<li>
+<p>2x 1.5mm FPV side plate</p>
+</li>
+<li>
+<p>2x 7075 Aluminium roll cage.</p>
+</li>
+<li>
+<p>2mm VTX mount.</p>
+</li>
+<li>
+<p>PETG XT60 holder.</p>
+</li>
+<li>
+<p>Kit including bolts, nuts and spacers.</p>
+</li>
+<li>
+<p>Battery strap.</p>
+</li>
+<li>
+<p>Stickers.</p>
+</li>
+<li>
+<p>Manual.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_analysis">Analysis</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>How does this all go together?</strong></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://feelfpv.files.wordpress.com/2017/01/wp-1484095807219.gif?w=616" alt="wp 1484095807219.gif?w=616">
+</div>
+</div>
+<div class="paragraph">
+<p>As you can see in the gif above, the Obession is based on a modular design, so in case you snap an arm it&#8217;s an easy swap.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/vFvFp3z.png" alt="vFvFp3z.png">
+</div>
+</div>
+<div class="paragraph">
+<p>A nice touch by Dquad is the included spare top plate, which is used to give structural rigidity to the frame in case you desire to use your own PDB. (shown in the picture above)</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/1rJEZsS.png" alt="1rJEZsS.png">
+</div>
+</div>
+<div class="paragraph">
+<p>They also include a PETG XT60 holder that is used to secure the XT60 connector to the frame. This is a very nice touch that diminishes the chance of your battery lead plugging out when crashing. (shown in the picture above)</p>
+</div>
+<div class="paragraph">
+<p><strong>What&#8217;s the difference between this and the first iteration?</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>The arms are now 15mm wide, instead of 13mm.</p>
+</li>
+<li>
+<p>The tipped arm design was abandoned, opting instead of a rounder tip, resulting in a stronger arm.</p>
+</li>
+<li>
+<p>The connection to the central frame area was reinforced.</p>
+</li>
+<li>
+<p>The motor mounting surface was reinforced via adding more carbon to the sides.</p>
+</li>
+<li>
+<p>The PDB is now 2mm thick instead of 1.6mm.</p>
+</li>
+<li>
+<p>The bottom and top plate are now 2mm thick instead of 1.5mm.</p>
+</li>
+<li>
+<p>The holes on the conical tip of the arm were removed, increasing rigidity.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_diving_further_into_obsession">Diving further into Obsession</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>So what stands out on this frame?</strong></p>
+</div>
+<div class="paragraph">
+<p>One of the first things that stood out to me was the extremely good build quality of all the parts present in this frame!<br>
+The use of Aluminium 7075 really improves the rigidity of the frame, resulting in a very strong cage that protects both lenses and the components inside.<br></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/YSTNbXF.png" alt="YSTNbXF.png">
+</div>
+</div>
+<div class="paragraph">
+<p>The carbon cut is also excellent, one of the best I&#8217;ve ever seen, nothing like the cheap clone frames that are sold everywhere. I&#8217;d put this right beside my SCX-200 V2.3 by Armattan in terms of carbon fiber quality.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/a9DI0R2.png" alt="a9DI0R2.png">
+</div>
+</div>
+<div class="paragraph">
+<p>Another great touch is the HD camera mounting options.<br>
+Gladly Dquad provides a way to quickly attach an HD camera to the rollcage via 4 screws, making this a very quick and easy installation.<br>
+They also provide the STL files required to print your own protection right on their website, alongside arm and LiPo protectors and XT60 mounts.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_conclusion">Conclusion</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Would I recommend this frame to anyone who&#8217;s looking for a premium build quality and durability?<br>
+Absolutely. Aside from the hefty price tag I cannot think of a single reason not to recommend this frame.</p>
+</div>
+<div class="paragraph">
+<p>It&#8217;s sleek, good looking, great durability and has spare parts in case you ever need them.<br>
+Great job Dquad!</p>
+</div>
+<div class="paragraph">
+<p><strong>Pros:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Great carbon quality and perfect cuts.</p>
+</li>
+<li>
+<p>Use of 7075 aluminium.</p>
+</li>
+<li>
+<p>Great looks.</p>
+</li>
+<li>
+<p>FPV camera is well protected inside the rollcage.</p>
+</li>
+<li>
+<p>Light&#8217;ish weight (94g).</p>
+</li>
+<li>
+<p>Spare top plate in case you do not want to use the provided PDB.</p>
+</li>
+<li>
+<p>Session mounts and various other 3D items available to download for free.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Cons:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>High price tag (95€)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If you&#8217;re interested in purchasing the Obsession, head over to Dquad!</p>
+</div>
+<div class="paragraph">
+<p>Purchase link: <a href="http://www.dquad.nl/obsession/" class="bare">http://www.dquad.nl/obsession/</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_small_video_review_portuguese">Small video review (Portuguese)</h2>
+<div class="sectionbody">
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/09mtGgnL3r4?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://OctavioMaia.github.io/2017/05/01/Dquad-Obsession-V2-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/01/Dquad-Obsession-V2-Review.html</guid><category><![CDATA[FlyingLemon]]></category><category><![CDATA[ FC]]></category><category><![CDATA[ F4]]></category><category><![CDATA[ OSD]]></category><category><![CDATA[ PDB]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[BumpBee_S 30A ESC - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
