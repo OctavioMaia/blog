@@ -13,103 +13,100 @@ Before heading further into this review, I’d like to thank the folks over at D
 
 == Overview
 
-Let's start off by taking a closer look at the packaging. +
-As we can see FlyingLemon is using a nice cardboard box, which may not seem special at first, but after opening it up we see specially cut holes for both the Flight Controller and PDB.
+Sadly I'm yet to assemble this frame as I am waiting for some EFAW 2407R motors, so I'll be using images provived by Dquad. +
+Once I have completed the build I will create a new post regarding my thoughts after flying for a while. +
+So for the time being I will leave my thoughts after seeing and testing the frame on the bench.
 
-image::http://i.imgur.com/uR2gp60.jpg[]
+image::http://www.dquad.nl/wp-content/uploads/2017/02/cropped-DSC_2998-Editdquad20170208.jpg[]
 
-image::http://i.imgur.com/uoiwssk.jpg[]
+So let's take a closer look at the frame itself.
 
-In the box we'll find both the Flight controller and PDB, plus some nylon hardware. +
-An overall good package from FlyingLemon.
+*What's in the box:*
 
-*Specifications:*
-
-* Up to 6S input.
-
-* F4 MCU running @170mhz.
-
-* MPU6000 gyro.
-
-* 12V/0.7A linear BEC for video line w/ LC-Filter
-
-* Switching 5V step-down rated @ 600mA
-
-* Betaflight OSD
-
-* VBAT, RSSI, Current sensor (up to 160A)
-
-* SBUS inverter
-
-* Full sized SD Card slot.
-
-* etc.
-
+* 4mm carbon arms.
+* 2mm bottom and top plate.
+* 2mm PDB
+* 2x 1.5mm FPV side plate
+* 2x 7075 Aluminium roll cage.
+* 2mm VTX mount.
+* PETG XT60 holder.
+* Kit including bolts, nuts and spacers.
+* Battery strap.
+* Stickers.
+* Manual.
 
 == Analysis
 
-One of the first things that stood out to me was the extremely good build quality of both parts! +
-I'm also glad that they are now using pads instead of through holes on the FC, which makes for much easier wiring.
+*How does this all go together?*
 
-image::http://i.imgur.com/1XKRUdq.jpg[]
+image::https://feelfpv.files.wordpress.com/2017/01/wp-1484095807219.gif?w=616[]
 
-On the back side we'll find the SD Card slot, the ATMEL chip that runs the OSD, the 5V step-down and a special pin connector that we'll discuss further in this review.
+As you can see in the gif above, the Obession is based on a modular design, so in case you snap an arm it's an easy swap. 
 
-image::http://i.imgur.com/h5MQaeA.jpg[]
+image::http://i.imgur.com/vFvFp3z.png[]
 
-== Diving further into the Kiwi.V2
+A nice touch by Dquad is the included spare top plate, which is used to give structural rigidity to the frame in case you desire to use your own PDB. (shown in the picture above)
 
-So what makes the Kiwi.V2 any good? +
-For once, it's a completely modular system that doesn't require the use of the Kiwi PDB.
+image::http://i.imgur.com/1rJEZsS.png[]
 
-* Ripped off a signal pad on the PDB? +
-Use the spare one on the Flight controller. 
+They also include a PETG XT60 holder that is used to secure the XT60 connector to the frame. This is a very nice touch that diminishes the chance of your battery lead plugging out when crashing. (shown in the picture above)
 
-* You don't feel like using the included PDB, but want to take advantage of the 12V filtering? +
-No problem, use any PDB of your choice. The Kiwi has the 12V regulator on the FC itself.
 
-The other major selling point to me is the combination of both FC and PDB. +
-I believe the Kiwi.V1 was the first available product to use such a ingenious system! +
-Wire your motors and signal wire to the PDB and through pins, connect both the FC and PDB for a super clean build and short stack. 
+*What's the difference between this and the first iteration?*
 
-Here's how it looks.
+* The arms are now 15mm wide, instead of 13mm.
+* The tipped arm design was abandoned, opting instead of a rounder tip, resulting in a stronger arm.
+* The connection to the central frame area was reinforced.
+* The motor mounting surface was reinforced via adding more carbon to the sides. 
+* The PDB is now 2mm thick instead of 1.6mm.
+* The bottom and top plate are now 2mm thick instead of 1.5mm.
+* The holes on the conical tip of the arm were removed, increasing rigidity.
 
-image::http://i.imgur.com/ySAH8wl.jpg[]
-image::http://i.imgur.com/zQ4Yh1O.jpg[]
-image::http://i.imgur.com/ULa0Unf.jpg[]
 
+== Diving further into Obsession
+
+
+*So what stands out on this frame?*
+
+One of the first things that stood out to me was the extremely good build quality of all the parts present in this frame! +
+The use of Aluminium 7075 really improves the rigidity of the frame, resulting in a very strong cage that protects both lenses and the components inside. +
+
+image::http://i.imgur.com/YSTNbXF.png[]
+
+The carbon cut is also excellent, one of the best I've ever seen, nothing like the cheap clone frames that are sold everywhere. I'd put this right beside my SCX-200 V2.3 by Armattan in terms of carbon fiber quality.
+
+image::http://i.imgur.com/a9DI0R2.png[]
+
+Another great touch is the HD camera mounting options. +
+Gladly Dquad provides a way to quickly attach an HD camera to the rollcage via 4 screws, making this a very quick and easy installation. +
+They also provide the STL files required to print your own protection right on their website, alongside arm and LiPo protectors and XT60 mounts.
 
 == Conclusion
 
-Would I recommend this FC and PDB? Yes! +
-I'm yet to find someone that combines this well.
+Would I recommend this frame to anyone who's looking for a premium build quality and durability? +
+Absolutely. Aside from the hefty price tag I cannot think of a single reason not to recommend this frame. 
 
-I may be a huge fan of my RROSD and FC combo, but this stack is way smaller and cleaner looking. +
-The video feed is just perfect and extremely clean.
+It's sleek, good looking, great durability and has spare parts in case you ever need them. +
+Great job Dquad!
 
 *Pros:*
 
-	* Extremely well built.
-    * Allows up to 160A on the current sensor.
-    * 6S capable.
-    * Full sized SD Card slot.
-    * Compact stack.
-    * Extremely well laid out.
-    * Quality components.
-    * Extremely well laid out pads.
-    * FC + PDB communication between pins.
-    * Extremely clean filtering.
-	* Well priced.
-    * Sold in the EU.
+	* Great carbon quality and perfect cuts.
+    * Use of 7075 aluminium.
+    * Great looks.
+    * FPV camera is well protected inside the rollcage.
+    * Light'ish weight (94g).
+    * Spare top plate in case you do not want to use the provided PDB.
+    * Session mounts and various other 3D items available to download for free.
     
 *Cons:*
 
-	* Finding them in stock can be difficult.
+	* High price tag (95€)
 
-If you're interested in purchasing the Kiwi, head over to FlyingLemon!
+If you're interested in purchasing the Obsession, head over to Dquad!
 
-Purchase link: https://flyinglemon.eu/
+Purchase link: http://www.dquad.nl/obsession/
 
 == Small video review (Portuguese)
 
-video::WJE28_kw9d0[youtube]
+video::09mtGgnL3r4[youtube]
