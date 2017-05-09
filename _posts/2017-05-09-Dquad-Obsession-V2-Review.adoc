@@ -1,6 +1,6 @@
 = Dquad Obsession V2 - Review
 :hp-image::http://i.imgur.com/DkFsnwt.png[]
-:published_at: 2017-05-01
+:published_at: 2017-05-09
 :hp-tags: FlyingLemon, FC, F4, OSD, PDB
 Octávio Maia <octaviojmaia@gmail.com>
 
