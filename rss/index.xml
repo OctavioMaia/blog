@@ -1,229 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 09 May 2017 15:57:34 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Kiwi.F4 V2 - Review]]></title><description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/17jr2I9.png" alt="17jr2I9.png">
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_introduction">Introduction</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Welcome to my review of the Kiwi.F4 V2 Flight Controller and the Kiwi PDB.<br>
-Before heading further into this review, I’d like to thank the John Lemon for making this review possible!</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_overview">Overview</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Let&#8217;s start off by taking a closer look at the packaging.<br>
-As we can see FlyingLemon is using a nice cardboard box, which may not seem special at first, but after opening it up we see specially cut holes for both the Flight Controller and PDB.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/uR2gp60.jpg" alt="uR2gp60.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/uoiwssk.jpg" alt="uoiwssk.jpg">
-</div>
-</div>
-<div class="paragraph">
-<p>In the box we&#8217;ll find both the Flight controller and PDB, plus some nylon hardware.<br>
-An overall good package from FlyingLemon.</p>
-</div>
-<div class="paragraph">
-<p><strong>Specifications:</strong></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Up to 6S input.</p>
-</li>
-<li>
-<p>F4 MCU running @170mhz.</p>
-</li>
-<li>
-<p>MPU6000 gyro.</p>
-</li>
-<li>
-<p>12V/0.7A linear BEC for video line w/ LC-Filter</p>
-</li>
-<li>
-<p>Switching 5V step-down rated @ 600mA</p>
-</li>
-<li>
-<p>Betaflight OSD</p>
-</li>
-<li>
-<p>VBAT, RSSI, Current sensor (up to 160A)</p>
-</li>
-<li>
-<p>SBUS inverter</p>
-</li>
-<li>
-<p>Full sized SD Card slot.</p>
-</li>
-<li>
-<p>etc.</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_analysis">Analysis</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>One of the first things that stood out to me was the extremely good build quality of both parts!<br>
-I&#8217;m also glad that they are now using pads instead of through holes on the FC, which makes for much easier wiring.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/1XKRUdq.jpg" alt="1XKRUdq.jpg">
-</div>
-</div>
-<div class="paragraph">
-<p>On the back side we&#8217;ll find the SD Card slot, the ATMEL chip that runs the OSD, the 5V step-down and a special pin connector that we&#8217;ll discuss further in this review.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/h5MQaeA.jpg" alt="h5MQaeA.jpg">
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_diving_further_into_the_kiwi_v2">Diving further into the Kiwi.V2</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>So what makes the Kiwi.V2 any good?<br>
-For once, it&#8217;s a completely modular system that doesn&#8217;t require the use of the Kiwi PDB.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Ripped off a signal pad on the PDB?<br>
-Use the spare one on the Flight controller.</p>
-</li>
-<li>
-<p>You don&#8217;t feel like using the included PDB, but want to take advantage of the 12V filtering?<br>
-No problem, use any PDB of your choice. The Kiwi has the 12V regulator on the FC itself.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>The other major selling point to me is the combination of both FC and PDB.<br>
-I believe the Kiwi.V1 was the first available product to use such a ingenious system!<br>
-Wire your motors and signal wire to the PDB and through pins, connect both the FC and PDB for a super clean build and short stack.</p>
-</div>
-<div class="paragraph">
-<p>Here&#8217;s how it looks.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/ySAH8wl.jpg" alt="ySAH8wl.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/zQ4Yh1O.jpg" alt="zQ4Yh1O.jpg">
-</div>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://i.imgur.com/ULa0Unf.jpg" alt="ULa0Unf.jpg">
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_conclusion">Conclusion</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Would I recommend this FC and PDB? Yes!<br>
-I&#8217;m yet to find someone that combines this well.</p>
-</div>
-<div class="paragraph">
-<p>I may be a huge fan of my RROSD and FC combo, but this stack is way smaller and cleaner looking.<br>
-The video feed is just perfect and extremely clean.</p>
-</div>
-<div class="paragraph">
-<p><strong>Pros:</strong></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Extremely well built.</p>
-</li>
-<li>
-<p>Allows up to 160A on the current sensor.</p>
-</li>
-<li>
-<p>6S capable.</p>
-</li>
-<li>
-<p>Full sized SD Card slot.</p>
-</li>
-<li>
-<p>Compact stack.</p>
-</li>
-<li>
-<p>Extremely well laid out.</p>
-</li>
-<li>
-<p>Quality components.</p>
-</li>
-<li>
-<p>Extremely well laid out pads.</p>
-</li>
-<li>
-<p>FC + PDB communication between pins.</p>
-</li>
-<li>
-<p>Extremely clean filtering.</p>
-</li>
-<li>
-<p>Well priced.</p>
-</li>
-<li>
-<p>Sold in the EU.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p><strong>Cons:</strong></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Finding them in stock can be difficult.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>If you&#8217;re interested in purchasing the Kiwi, head over to FlyingLemon!</p>
-</div>
-<div class="paragraph">
-<p>Purchase link: <a href="https://flyinglemon.eu/" class="bare">https://flyinglemon.eu/</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_small_video_review_portuguese">Small video review (Portuguese)</h2>
-<div class="sectionbody">
-<div class="videoblock">
-<div class="content">
-<iframe src="https://www.youtube.com/embed/WJE28_kw9d0?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
-</div>
-</div>]]></description><link>https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</guid><category><![CDATA[FlyingLemon]]></category><category><![CDATA[ FC]]></category><category><![CDATA[ F4]]></category><category><![CDATA[ OSD]]></category><category><![CDATA[ PDB]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Dquad Obsession V2 - Review]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 09 May 2017 16:04:24 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Dquad Obsession V2 -]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -455,7 +230,232 @@ Great job Dquad!</p>
 </div>
 </div>
 </div>
-</div>]]></description><link>https://OctavioMaia.github.io/2017/05/01/Dquad-Obsession-V2-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/01/Dquad-Obsession-V2-Review.html</guid><category><![CDATA[FlyingLemon]]></category><category><![CDATA[ FC]]></category><category><![CDATA[ F4]]></category><category><![CDATA[ OSD]]></category><category><![CDATA[ PDB]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[BumpBee_S 30A ESC - Review]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>https://OctavioMaia.github.io/2017/05/09/Dquad-Obsession-V2.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/09/Dquad-Obsession-V2.html</guid><category><![CDATA[Dquad]]></category><category><![CDATA[ Obsession]]></category><category><![CDATA[ Frame]]></category><category><![CDATA[ V2]]></category><category><![CDATA[ 7075]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Tue, 09 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Kiwi.F4 V2 - Review]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/17jr2I9.png" alt="17jr2I9.png">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_introduction">Introduction</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Welcome to my review of the Kiwi.F4 V2 Flight Controller and the Kiwi PDB.<br>
+Before heading further into this review, I’d like to thank the John Lemon for making this review possible!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_overview">Overview</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Let&#8217;s start off by taking a closer look at the packaging.<br>
+As we can see FlyingLemon is using a nice cardboard box, which may not seem special at first, but after opening it up we see specially cut holes for both the Flight Controller and PDB.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/uR2gp60.jpg" alt="uR2gp60.jpg">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/uoiwssk.jpg" alt="uoiwssk.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>In the box we&#8217;ll find both the Flight controller and PDB, plus some nylon hardware.<br>
+An overall good package from FlyingLemon.</p>
+</div>
+<div class="paragraph">
+<p><strong>Specifications:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Up to 6S input.</p>
+</li>
+<li>
+<p>F4 MCU running @170mhz.</p>
+</li>
+<li>
+<p>MPU6000 gyro.</p>
+</li>
+<li>
+<p>12V/0.7A linear BEC for video line w/ LC-Filter</p>
+</li>
+<li>
+<p>Switching 5V step-down rated @ 600mA</p>
+</li>
+<li>
+<p>Betaflight OSD</p>
+</li>
+<li>
+<p>VBAT, RSSI, Current sensor (up to 160A)</p>
+</li>
+<li>
+<p>SBUS inverter</p>
+</li>
+<li>
+<p>Full sized SD Card slot.</p>
+</li>
+<li>
+<p>etc.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_analysis">Analysis</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>One of the first things that stood out to me was the extremely good build quality of both parts!<br>
+I&#8217;m also glad that they are now using pads instead of through holes on the FC, which makes for much easier wiring.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/1XKRUdq.jpg" alt="1XKRUdq.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>On the back side we&#8217;ll find the SD Card slot, the ATMEL chip that runs the OSD, the 5V step-down and a special pin connector that we&#8217;ll discuss further in this review.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/h5MQaeA.jpg" alt="h5MQaeA.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_diving_further_into_the_kiwi_v2">Diving further into the Kiwi.V2</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>So what makes the Kiwi.V2 any good?<br>
+For once, it&#8217;s a completely modular system that doesn&#8217;t require the use of the Kiwi PDB.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Ripped off a signal pad on the PDB?<br>
+Use the spare one on the Flight controller.</p>
+</li>
+<li>
+<p>You don&#8217;t feel like using the included PDB, but want to take advantage of the 12V filtering?<br>
+No problem, use any PDB of your choice. The Kiwi has the 12V regulator on the FC itself.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The other major selling point to me is the combination of both FC and PDB.<br>
+I believe the Kiwi.V1 was the first available product to use such a ingenious system!<br>
+Wire your motors and signal wire to the PDB and through pins, connect both the FC and PDB for a super clean build and short stack.</p>
+</div>
+<div class="paragraph">
+<p>Here&#8217;s how it looks.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/ySAH8wl.jpg" alt="ySAH8wl.jpg">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/zQ4Yh1O.jpg" alt="zQ4Yh1O.jpg">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://i.imgur.com/ULa0Unf.jpg" alt="ULa0Unf.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_conclusion">Conclusion</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Would I recommend this FC and PDB? Yes!<br>
+I&#8217;m yet to find someone that combines this well.</p>
+</div>
+<div class="paragraph">
+<p>I may be a huge fan of my RROSD and FC combo, but this stack is way smaller and cleaner looking.<br>
+The video feed is just perfect and extremely clean.</p>
+</div>
+<div class="paragraph">
+<p><strong>Pros:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Extremely well built.</p>
+</li>
+<li>
+<p>Allows up to 160A on the current sensor.</p>
+</li>
+<li>
+<p>6S capable.</p>
+</li>
+<li>
+<p>Full sized SD Card slot.</p>
+</li>
+<li>
+<p>Compact stack.</p>
+</li>
+<li>
+<p>Extremely well laid out.</p>
+</li>
+<li>
+<p>Quality components.</p>
+</li>
+<li>
+<p>Extremely well laid out pads.</p>
+</li>
+<li>
+<p>FC + PDB communication between pins.</p>
+</li>
+<li>
+<p>Extremely clean filtering.</p>
+</li>
+<li>
+<p>Well priced.</p>
+</li>
+<li>
+<p>Sold in the EU.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Cons:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Finding them in stock can be difficult.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If you&#8217;re interested in purchasing the Kiwi, head over to FlyingLemon!</p>
+</div>
+<div class="paragraph">
+<p>Purchase link: <a href="https://flyinglemon.eu/" class="bare">https://flyinglemon.eu/</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_small_video_review_portuguese">Small video review (Portuguese)</h2>
+<div class="sectionbody">
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/WJE28_kw9d0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/05/01/Kiwi-F4-V2-Review.html</guid><category><![CDATA[FlyingLemon]]></category><category><![CDATA[ FC]]></category><category><![CDATA[ F4]]></category><category><![CDATA[ OSD]]></category><category><![CDATA[ PDB]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[BumpBee_S 30A ESC - Review]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
