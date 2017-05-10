@@ -1,6 +1,6 @@
 = Wraith32 - BLHeli_32 unboxed
 :hp-image::http://i.imgur.com/DkFsnwt.png[]
-:published_at: 2017-04-15
+:published_at: 2017-05-10
 :hp-tags: Wraith32, ESC, DSHOT1200, BLHeli_32
 Octávio Maia <octaviojmaia@gmail.com>
 
