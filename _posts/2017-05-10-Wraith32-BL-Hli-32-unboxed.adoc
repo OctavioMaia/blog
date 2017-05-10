@@ -11,7 +11,7 @@ image::data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK0AAAAxCAMAAACf1dlJAAAC7lB
 Welcome to my overview and first look of the Wraith32 BLHeli_32 ESC. +
 Thanks to Airbot for sending me these ESC for an overview!
 
-Before heading further into this overview please take into consideration that these ESC are a pre-production, test sample that are not representative of the final product in any way. +
+Before heading further into this overview please take into consideration that these ESC are a pre-production test sample that are not representative of the final product in any way. +
 They cannot be updated to the final firmware neither have functions like telemetry and current sensing working as of now.
 
 
