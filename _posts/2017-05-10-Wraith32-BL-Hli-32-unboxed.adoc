@@ -66,6 +66,8 @@ This being said, this ESC works perfectly on DSHOT600 with no desyncs and once D
 Soldering to the pads was a dream. I'm a fan of bare ESC so I can cut my own cables to length. +
 The only possible downside would be the GND and PWM pad, which I found a bit small but workable nonetheless.
 
+Below I have linked some DVR footage of a friend flying the Wraith32.
+
 video::mkJw5oC84Xg[youtube,800,480]
 
 == Ending thoughts
