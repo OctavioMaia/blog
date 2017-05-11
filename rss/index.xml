@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 10 May 2017 20:02:11 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Wraith32 - BLHeli_32 unboxed]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 11 May 2017 11:07:58 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Wraith32 - BLHeli_32 unboxed]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -119,9 +119,11 @@ This is also usefull in the rare case a pad is ripped off the PCB.</p>
 <h2 id="_user_experience">User experience</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>As of today (10th of May of 2017) DSHOT1200 isn&#8217;t 100% functional as far as I know.<br>
-The only way to connect to these ESC is via an Arduino since BLHeliSuite does not recognize them.<br>
-Current F3 boards aren&#8217;t able to keep up, but F4 and F7 do keep up.<br>
+<p>As of today (10th of May of 2017) DSHOT1200 is functional, but can only be used on F7 boards.<br>
+Current F3 and F4 boards aren&#8217;t able to keep up with the increased PID calculation speed.</p>
+</div>
+<div class="paragraph">
+<p>Also, the only way to connect to these ESC is via an Arduino since BLHeliSuite does not recognize them.<br>
 This being said, this ESC works perfectly on DSHOT600 with no desyncs and once DSHOT1200 is working 100% I&#8217;ll be sure to try it out.</p>
 </div>
 <div class="paragraph">
