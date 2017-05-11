@@ -58,9 +58,10 @@ image::http://i.imgur.com/WC9ofZ4.jpg[]
 
 == User experience
 
-As of today (10th of May of 2017) DSHOT1200 isn't 100% functional as far as I know. +
-The only way to connect to these ESC is via an Arduino since BLHeliSuite does not recognize them. +
-Current F3 boards aren't able to keep up, but F4 and F7 do keep up. +
+As of today (10th of May of 2017) DSHOT1200 is functional, but can only be used on F7 boards. +
+Current F3 and F4 boards aren't able to keep up with the increased PID calculation speed.
+
+Also, the only way to connect to these ESC is via an Arduino since BLHeliSuite does not recognize them. +
 This being said, this ESC works perfectly on DSHOT600 with no desyncs and once DSHOT1200 is working 100% I'll be sure to try it out.
 
 Soldering to the pads was a dream. I'm a fan of bare ESC so I can cut my own cables to length. +
