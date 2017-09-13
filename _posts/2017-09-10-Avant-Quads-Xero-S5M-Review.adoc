@@ -1,0 +1,88 @@
+= AvantQuads Xero S5M - Review
+:hp-image::http://i.imgur.com/DkFsnwt.png[]
+:published_at: 2017-09-10
+:hp-tags: Avant, Xero, Frame, S5M, Unibody, light
+Octávio Maia <octaviojmaia@gmail.com>
+
+image::https://www.multirotorparts.com/media/wysiwyg/Avant/Avant-logo.jpg[]
+
+== Introduction 
+
+Welcome to my review of the Xero S5M "Silver Edition". +
+Before heading further into this review, I’d like to thank Eddie for sending over the frame for review.
+
+== Overview
+
+The Xero S5M is a new frame by Avant designed to be used with the new generation of micro cameras, the Foxeer Arrow Micro and Runcam Micro Swift. +
+It sports a stretched-X configuration, making it ideal for racing, where the stretched-X profile has advantages over the classic true-x configuration. +
+Nothing on this frame feels cheap or poorly made. The carbon is cut in 45º degrees, offering more stiffness than a standard cut. +
+The frame edges are also chamfered, allowing for better resistance in case of heavy crashes, since it helps to prevent delamination of the carbon fibre layers. +
+The frame also allows for 20mm x 20mm and 30.55mm x 30.5mm mounting which is usefull nowadays since 20mm x 20mm eletronics are becoming more popular due to higher amperage AIO ESC and tinier flight controllers. +
+So last but not least, the frame features 3 motor mounting points instead of 4. This has been a recent update to the design to help add stiffness in that area since there have been some issues regarding heavy crashes.
+
+So let's take a closer look at the frame itself.
+
+image::https://i.imgur.com/CuN9njA.jpg[]
+image::https://i.imgur.com/CAocdVo.jpg[]
+
+*What's in the box:*
+
+* 4mm unibody main plate.
+* 2mm top plate.
+* 2mm camera mounting plate.
+* Kit including bolts, nuts and spacers.
+* Battery strap.
+* Stickers.
+
+== Analysis
+
+*How does this all go together?*
+
+The Xero S5M is a very easy frame to assemble. It sports countersunk nylon screws on the bottom side of the main plate and countersunk high tensile steel screws on the top plate.
+
+== Diving further into Obsession
+
+
+*So what stands out on this frame?*
+
+One of the first things that stood out to me was the extremely good build quality of all the parts present in this frame! +
+The use of Aluminium 7075 really improves the rigidity of the frame, resulting in a very strong cage that protects both lenses and the components inside. +
+
+image::http://i.imgur.com/YSTNbXF.png[]
+
+The carbon cut is also excellent, one of the best I've ever seen, nothing like the cheap clone frames that are sold everywhere. I'd put this right beside my SCX-200 V2.3 by Armattan in terms of carbon fiber quality.
+
+image::http://i.imgur.com/a9DI0R2.png[]
+
+Another great touch is the HD camera mounting options. +
+Gladly Dquad provides a way to quickly attach an HD camera to the rollcage via 4 screws, making this a very quick and easy installation. +
+They also provide the STL files required to print your own protection right on their website, alongside arm and LiPo protectors and XT60 mounts.
+
+== Conclusion
+
+Would I recommend this frame to anyone who's looking for a premium build quality and durability? +
+Absolutely. Aside from the hefty price tag I cannot think of a single reason not to recommend this frame. 
+
+It's sleek, good looking, great durability and has spare parts in case you ever need them. +
+Great job Dquad!
+
+*Pros:*
+
+	* Great carbon quality and perfect cuts.
+    * Use of 7075 aluminium.
+    * Great looks.
+    * FPV camera is well protected inside the rollcage.
+    * Light'ish weight (94g).
+    * Spare top plate in case you do not want to use the provided PDB.
+    * Session mounts and various other 3D items available to download for free.
+    
+*Cons:*
+
+	* High price tag (95€)
+
+If you're interested in purchasing the Obsession, head over to Dquad!
+
+Purchase link: http://www.dquad.nl/obsession/
+
+== Small video review (Portuguese)
+video::09mtGgnL3r4[youtube]
