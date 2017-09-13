@@ -1,4 +1,175 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 11 May 2017 11:07:58 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Wraith32 - BLHeli_32 unboxed]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Octávio's Blog]]></title><description><![CDATA[A no frills blog about various stuff.]]></description><link>https://OctavioMaia.github.io</link><image><url>http://i.imgur.com/p9xyIhS.jpg</url><title>Octávio&apos;s Blog</title><link>https://OctavioMaia.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 13 Sep 2017 18:28:16 GMT</lastBuildDate><atom:link href="https://OctavioMaia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[AvantQuads Xero S5M - Review]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="https://www.multirotorparts.com/media/wysiwyg/Avant/Avant-logo.jpg" alt="Avant logo.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_introduction">Introduction</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Welcome to my review of the Xero S5M "Silver Edition".<br>
+Before heading further into this review, I’d like to thank Eddie for sending over the frame for review.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_overview">Overview</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The Xero S5M is a new frame by Avant designed to be used with the new generation of micro cameras, the Foxeer Arrow Micro and Runcam Micro Swift.<br>
+It sports a stretched-X configuration, making it ideal for racing, where the stretched-X profile has advantages over the classic true-x configuration.<br>
+Nothing on this frame feels cheap or poorly made. The carbon is cut in 45º degrees, offering more stiffness than a standard cut.<br>
+The frame edges are also chamfered, allowing for better resistance in case of heavy crashes, since it helps to prevent delamination of the carbon fibre layers.<br>
+The frame also allows for 20mm x 20mm and 30.55mm x 30.5mm mounting which is usefull nowadays since 20mm x 20mm eletronics are becoming more popular due to higher amperage AIO ESC and tinier flight controllers.<br>
+So last but not least, the frame features 3 motor mounting points instead of 4. This has been a recent update to the design to help add stiffness in that area since there have been some issues regarding heavy crashes.<br>
+The FPV camera can be screwed in two places, either closer or further away from the flight controller.<br>
+The frame comes in at 65$, which I consider to be a steal! It&#8217;s cheap when you factor in the quality you&#8217;re getting here.</p>
+</div>
+<div class="paragraph">
+<p><strong>What&#8217;s in the box:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>1x 4mm unibody main plate.</p>
+</li>
+<li>
+<p>1x 2mm top plate.</p>
+</li>
+<li>
+<p>2x 2mm camera mounting plate (28mm height).</p>
+</li>
+<li>
+<p>Kit including bolts, nuts and spacers.</p>
+</li>
+<li>
+<p>Battery strap.</p>
+</li>
+<li>
+<p>Stickers.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_analysis">Analysis</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>So what stands out on this frame?</strong><br>
+One of the first things that stood out to me was the extremely good build quality of all the parts present in this frame!<br>
+The machining on the carbon is top notch. It even comes pre-chamfered from the factory.<br></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/CuN9njA.jpg" alt="CuN9njA.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>The carbon being cut in 45º also makes a huge difference. The flex is almost non-existent, allowing just for a tiny bit of flexing (this is good, because if a frame is too rigid it won&#8217;t allow for flexing in a hard crash).</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/CAocdVo.jpg" alt="CAocdVo.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p><strong>How does this all go together?</strong><br>
+The Xero S5M is a very easy frame to assemble. It sports countersunk nylon screws on the bottom side of the main plate and countersunk high tensile steel screws on the top plate.<br>
+This makes for a very clean and aesthetically pleasing build.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/wqltWGE.jpg" alt="wqltWGE.jpg">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/Yef4VSP.jpg" alt="Yef4VSP.jpg">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/7wkJWro.jpg" alt="7wkJWro.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p><strong>Final build:</strong><br>
+In order to save the most possible space I used a Racerstar StarF3S AIO FC + PDB + 30A ESC, making this a single stack machine.<br>
+A Foxeer Micro was also used along with a Eachine VTX03 w/ a dipole antenna.<br>
+BoltRC 2207 2450KV motors were also used, making this a super light and capable racer.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/RtMyUSH.jpg" alt="RtMyUSH.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>The build ended up weighing 259g w/ a strap and 4x Cyclone 5045C props.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://i.imgur.com/SQsl134.jpg" alt="SQsl134.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_conclusion">Conclusion</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Would I recommend this frame to anyone who&#8217;s looking for a premium build quality and durability?<br>
+Absolutely! AvantQuads has definitely hit a sweetspot here.<br>
+A good compromise of weight, durability, looks and most important price!<br>
+It&#8217;s sleek, good looking, great durability and has spare parts in case you ever need them.<br></p>
+</div>
+<div class="paragraph">
+<p><strong>Pros:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Superb carbon.</p>
+</li>
+<li>
+<p>Cut in 45º for maximum durability.</p>
+</li>
+<li>
+<p>Use of high tensile steel + countersunk screws.</p>
+</li>
+<li>
+<p>Great looks.</p>
+</li>
+<li>
+<p>FPV camera is well protected.</p>
+</li>
+<li>
+<p>Very lightweight (63g w/ hardware).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Cons:</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Lower standoffs + camera mounting plates would be preferred (probably add an option with 20mm standoffs for ultra low builds).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If you&#8217;re interested in purchasing the Xero S5M, head over to AvantQuads!</p>
+</div>
+<div class="paragraph">
+<p>Purchase link: <a href="http://avantquads.com" class="bare">http://avantquads.com</a></p>
+</div>
+</div>
+</div>]]></description><link>https://OctavioMaia.github.io/2017/09/10/Avant-Quads-Xero-S5M-Review.html</link><guid isPermaLink="true">https://OctavioMaia.github.io/2017/09/10/Avant-Quads-Xero-S5M-Review.html</guid><category><![CDATA[Avant]]></category><category><![CDATA[ Xero]]></category><category><![CDATA[ Frame]]></category><category><![CDATA[ S5M]]></category><category><![CDATA[ Unibody]]></category><category><![CDATA[ light]]></category><dc:creator><![CDATA[Octávio Maia]]></dc:creator><pubDate>Sun, 10 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Wraith32 - BLHeli_32 unboxed]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
