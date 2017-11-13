@@ -1,0 +1,71 @@
+= DALProp Cyclone T5040C - Review
+:hp-image::http://i.imgur.com/DkFsnwt.png[]
+:published_at: 2017-11-13
+:hp-tags: DAL, Cyclone, prop, 5040, freestyle
+Octávio Maia <octaviojmaia@gmail.com>
+
+image::http://quadrocoptology.com/images/logos/dalprop.jpg[]
+
+== Overview
+
+The Cyclone 5040 is the new addition to the vast Cyclone fleet of propellers. +
+The first generation 5045C was renowed as being one of the best racing propeller, having the grip of a 5040 and the power of a 5045 bullnose. +
+Building on this success DAL released the new 5046C, increasing pitch and therefore creating more thrust, but at the cost of a very small increase of current draw. +
+As there wasn't a good dual blade on the market DAL once again released the killer T5050C, this time in dual and triblade configurations, making this a very good choice for top of the line pilots and speed addicts. +
+But they didn't stop there, releasing the super light T5051, a prop that has the speed of the T5050C but weights just 3.2g. This was a great handling prop, but there was still something missing in the Cyclone lineup.+
+
+Until now... +
+DAL has finnaly catered to everyone upon releasing their new T5040C.
+
+image::http://d.surveilzone.com/upload/image/20171025/20171025071921_47241.jpg[]
+
+== Analysis
+
+*So what stands out?* 
+
+
+By finnaly releasing a lower pitch and lighter prop, DAL has released one of the best, if not the best freestyle prop. +
+Coming in at just 3.9g, the T5040C weighs as much as the T5040 V2, which already was a good prop. But the newer Cyclone takes it to a whole new level.
+
+I had some good experience with freestyle catered props, like the original HQ 5x3x4 glass nylon, the newer HQ 5x4x3 V1S, HQ 5x4.3x3 V1s and the DAL T5040 V2.
+
+In terms of stiffness the new T5040C wins hands down. While the original HQ just shattered on the tiniest impact, the V1S fixed this by switching to polycarbonate it is nowhere near the level of durability presented by the Cyclone series.
+
+Control is at a peak with this prop. While it may lack in top speed, it wasn't designed to be as fast as the T5050, since they fulfill different roles, but it's no slouch. +
+Cornering is at an all-time high. I've never had such good cornering control, even with the HQ props, which were, in my honest opinion the best freestyle prop until now.
+
+*Is everything perfect?*
+
+Sadly no. While the prop is perfect, the lower weight and thinner hub connection has made this the 2nd lower durability prop in the Cyclone series, only being beat by the ultra-light T5051. +
+In the one set I had I chose to fly in a grass field, so that crashes didn't break any of the only 4 props I had. Sadly this wasn't the case, as in 5-6 flights I managed to break a prop right in the hub. +
+While the other Cyclones would certainly bend and I'd bend them back in place, this new T5040C just shattered at the hub.
+
+I managed to get another set from a friend and flown probably 20 packs on them, but I broke 2 more in the hub once again.
+
+== Flight footage
+
+Here's a flight footage of the T5040C. +
+(Sorry for the weird vibrations, was flying with a broken arm)
+
+video::urvsEjz9Xh8[youtube]
+
+== Conclusion
+
+*Would I recommend this prop?*
+
+Absolutely, the control it gives is mind blowing and it's a worthy replacement to my HQ props.
+
+*Pros:*
+
+	* Made from PC.
+	* Legendary DAL quality.
+    * Good weight (3.9g).
+	* Great control.
+    
+*Cons:*
+
+	* Low durability.
+
+If you're interested in purchasing the T5040C head over to Surveilzone.
+
+Purchase link: http://www.surveilzone.com/2-Pairs-3-blade-DALPROP-CYCLONE-T5040C-Propeller-for-FPV-Freestyle-g-2077
